@@ -239,7 +239,7 @@ hr.small {
 /* Footer */
 
 footer {
-    padding: 100px 0;
+    padding: 10px 0;
 }
 
 #to-top {
@@ -435,4 +435,13 @@ footer {
   .timeline > li.timeline-inverted > .timeline-panel {
     padding: 0 100px 20px 20px;
   }
+}
+
+.bbblogo {
+  width: 30%;
+  margin: 20px;
+}
+
+.registry {
+  background-color: rgb(253, 236, 244);
 }
