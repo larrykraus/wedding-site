@@ -445,3 +445,7 @@ footer {
 .registry {
   background-color: rgb(253, 236, 244);
 }
+
+.eventInfo > h3 {
+  color: black;
+}
