@@ -449,3 +449,15 @@ footer {
 .eventInfo > h3 {
   color: black;
 }
+
+div.active {
+  height: 400px;
+}
+
+img.carousel {
+  margin: auto;
+}
+
+div.item {
+  align-content: center;
+}
