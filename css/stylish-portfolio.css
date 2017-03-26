@@ -240,6 +240,7 @@ hr.small {
 
 footer {
     padding: 10px 0;
+    background-color: rgb(248, 244, 241);
 }
 
 #to-top {
@@ -262,12 +263,15 @@ footer {
 }
 
 .blackBox {
-    background-color: black;
+    background-color: rgb(248, 244, 241);
     width: 500px;
     margin: 0 auto;
-
+    border-radius: 10px;
 }
 
+.blackBox > h1 {
+  color: rgb(97, 124, 63);
+}
 
 .timeline {
   list-style: none;
@@ -352,7 +356,7 @@ footer {
   right: auto;
 }
 .timeline > li:last-child {
-  margin-bottom: 0;
+  margin-bottom: 60px;
 }
 .timeline .timeline-heading h4 {
   margin-top: 0;
@@ -461,3 +465,21 @@ img.carousel {
 div.item {
   align-content: center;
 }
+
+.navbar {
+  background-color: rgb(248, 244, 241);
+}
+
+a {
+    color: rgb(97, 124, 63);
+}
+
+.page-scroll {
+    color: rgb(97, 124, 63) !important;
+}
+
+.section-heading {
+  margin: 15px;
+  margin-top: 50px;
+}
+
