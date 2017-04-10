@@ -183,9 +183,9 @@ hr.small {
 .callout {
     display: table;
     width: 100%;
-    height: 400px;
+    height: 500px;
     color: #fff;
-    background: url(../img/spRocks.jpg) no-repeat center center scroll;
+    background: url(../img/spRocks.jpg) no-repeat top center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
