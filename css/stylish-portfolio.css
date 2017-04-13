@@ -450,8 +450,8 @@ footer {
   background-color: rgb(253, 236, 244);
 }
 
-.eventInfo > h3 {
-  color: black;
+.eventInfo > h3, h4, p {
+  color: rgb(97, 124, 63);
 }
 
 div.active {
@@ -481,5 +481,13 @@ a {
 .section-heading {
   margin: 15px;
   margin-top: 50px;
+}
+
+.eventInfo {
+  margin-left: 140px;
+}
+
+.greenText {
+  color: rgb(97, 124, 63);
 }
 
