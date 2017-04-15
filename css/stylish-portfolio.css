@@ -494,3 +494,7 @@ a {
 #photos {
   background-color: rgb(248, 244, 241);
 }
+
+#myCarousel {
+  height: 460px;
+}
