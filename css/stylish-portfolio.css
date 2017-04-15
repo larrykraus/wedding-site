@@ -499,6 +499,30 @@ a {
   height: 460px;
 }
 
-#farmhouse {
-
+#hotel {
+  clear: left;
 }
+
+#hotelImg {
+  margin-top: 50px;
+  margin-right: 50px;
+  float: right;
+}
+
+#hotelTitle {
+  margin-top: 50px;
+}
+
+#hotelInfo {
+  text-align: right;
+  margin-left: 250px;
+  float: right;
+}
+
+#hotelNote {
+  clear: both;
+  float: right;
+  margin-right: 50px;
+}
+
+
